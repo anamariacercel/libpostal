@@ -12,3 +12,4 @@ profesor|prof
 sergent
 sublocotenent
 vice amiral
+pictor

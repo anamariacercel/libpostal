@@ -2,3 +2,7 @@ apartament|ap|apt|apart
 birou
 lotul
 sală|sala
+cladire|cladirea|clădire|clădirea
+corp|corpul
+complex
+interior|int
